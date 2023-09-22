@@ -23,4 +23,10 @@ public class Categoria {
     @OneToMany(mappedBy = "categoriaProduto", fetch = FetchType.EAGER)
     private List<Produto> produtos;
 
+    @Override
+    public String toString() {
+        return "Categoria{" +
+                "produtos=" + produtos +
+                '}';
+    }
 }

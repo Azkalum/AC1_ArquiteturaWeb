@@ -22,15 +22,12 @@ public class Ac1ArquiteturaWebApplication {
 
             Categoria categoria = new Categoria();
             categoria.setCatNome("Joias");
-            categoria.setIdCategoria(1L);
 
             Categoria categoria2 = new Categoria();
             categoria2.setCatNome("Relógios");
-            categoria2.setIdCategoria(2L);
 
             Categoria categoria3 = new Categoria();
             categoria3.setCatNome("Eletrônico");
-            categoria3.setIdCategoria(3L);
 
             categoriaProdutoRepository.save(categoria);
             categoriaProdutoRepository.save(categoria2);

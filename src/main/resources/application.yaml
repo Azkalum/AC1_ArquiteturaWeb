@@ -6,9 +6,9 @@ spring:
   jpa:
     hibernate:
       ddl-auto: update
-    properties:
-      hibernate:
-        show_sql: true
+#    properties:
+#      hibernate:
+#        show_sql: true
 springdoc:
   api-docs:
     path: /api-docs
