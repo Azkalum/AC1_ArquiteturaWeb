@@ -10,12 +10,14 @@
 
 ### CommandLineRunner:
 
-![image](https://github.com/Azkalum/AC1_ArquiteturaWeb/assets/98130954/520fae01-d94d-412c-b6af-ff202d39edea)
+![commandLinner](https://github.com/Azkalum/AC1_ArquiteturaWeb/assets/98130954/c3e373ea-9f24-48a3-942b-7fa5685440cc)
 
 ## MySQL tbl_categoria:
 
-![image](https://github.com/Azkalum/AC1_ArquiteturaWeb/assets/98130954/13b3bfd0-49e7-4bb0-b42f-17e92a305060)
+![categArquitetura](https://github.com/Azkalum/AC1_ArquiteturaWeb/assets/98130954/b92d9551-31f1-48de-b294-63abd1791be3)
+
 
 ### MySQL tbl_produto:
 
-![image](https://github.com/Azkalum/AC1_ArquiteturaWeb/assets/98130954/fabe07d4-f7c9-4ce2-9d5d-de4f2b6dd055)
+![prodArquitetura](https://github.com/Azkalum/AC1_ArquiteturaWeb/assets/98130954/d36178b2-6332-45f6-a25b-f93246aad2cd)
+
