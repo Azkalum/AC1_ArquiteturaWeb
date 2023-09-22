@@ -9,6 +9,7 @@ import lombok.Setter;
 @Getter
 @Setter
 @RequiredArgsConstructor
+@Table(schema = "tbl_produtos")
 public class Produto {
 
     @Id
@@ -17,19 +18,19 @@ public class Produto {
 
     private String prodNome;
 
-    private int prodQtd;
+    private double prodPreco;
 
     @ManyToOne
     @JoinColumn(name = "idCategoria")
-    private CategoriaProduto categoria;
+    private Categoria categoriaProduto;
 
     @Override
     public String toString() {
         return "Produto{" +
                 "idProduto=" + idProduto +
-                ", prodNome='" + prodNome + '\'' +
-                ", prodQtd=" + prodQtd +
-                ", categoria=" + categoria +
+                ", prodNome='" + prodNome +
+                ", prodPreco=" + prodPreco +
+                ", categoriaProduto=" + categoriaProduto +
                 '}';
     }
 }
