@@ -10,12 +10,12 @@
 
 ### CommandLineRunner:
 
-![image](https://github.com/Azkalum/AC1_ArquiteturaWeb/assets/98130954/0602116f-361b-4f4c-b261-7d5f515c8bda))
+![image](https://github.com/Azkalum/AC1_ArquiteturaWeb/assets/98130954/520fae01-d94d-412c-b6af-ff202d39edea)
 
 ## MySQL tbl_categoria:
 
-![image](https://github.com/Azkalum/AC1_ArquiteturaWeb/assets/98130954/65e73734-e5c0-4ad7-aeb7-15c24c6a7dd4)
+![image](https://github.com/Azkalum/AC1_ArquiteturaWeb/assets/98130954/13b3bfd0-49e7-4bb0-b42f-17e92a305060)
 
 ### MySQL tbl_produto:
-![image](https://github.com/Azkalum/AC1_ArquiteturaWeb/assets/98130954/48b67168-fbca-45c9-801c-c8c55f23017c)
 
+![image](https://github.com/Azkalum/AC1_ArquiteturaWeb/assets/98130954/fabe07d4-f7c9-4ce2-9d5d-de4f2b6dd055)
